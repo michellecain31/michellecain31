@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Michelle Cain</h1>
 <h3 align="center">A third year bs.c computer science student</h3>
 
-- 🔭 I’m currently working on **ar navigation - smart campus**
+- 🍒 I’m currently learning : **Finite automata and programming languages,Engineering advanced software solutions,Server side development**
+  
+- 🔭 my last project is a **ar navigation - smart campus**
 
-- 🌱 I’m currently learning **linux,pyton,kotlin and more**
+- 🌱 I’ve learned **linux,pyton,kotlin and more**
 
 - 📫 How to reach me **michellecainn@gmail.com**
 
