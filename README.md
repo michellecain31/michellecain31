@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michelle Cain</h1>
-<h3 align="center">A second year bs.c computer science student</h3>
+<h3 align="center">A third year bs.c computer science student</h3>
 
 - 🔭 I’m currently working on **ar navigation - smart campus**
 
