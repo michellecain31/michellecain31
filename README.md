@@ -12,7 +12,8 @@
 ### 🍒 Currently Studying
 - Theory of Computation  
 - Autonomous Vehicle Development  
-- Geographic Information Systems (IoT)
+- Geographic Information Systems
+- IoT
 
 ### 🔭 Recent Projects
 - [BiteMe](https://github.com/EASS-HIT-PART-A-2024-CLASS-VI/BiteMe_Michelle) – Full-Stack food ordering system  
