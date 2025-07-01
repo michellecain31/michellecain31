@@ -19,6 +19,7 @@
 - [BiteMe](https://github.com/EASS-HIT-PART-A-2024-CLASS-VI/BiteMe_Michelle) – Full-Stack food ordering system  
 - [Cost Manager API](https://github.com/michellecain31/Cost-Manager-Final-Project) – RESTful API backend service  
 - [AR Smart Navigation Campus](https://github.com/AR-Smart-Navigation-Campus/AR-Smart-Navigation-Campus) – Augmented Reality Android app for smart campus navigation  
+- [SmartBowl](https://github.com/michellecain31/SmartBowl) – IoT-based smart pet feeder system
 
 ### 🌱 Experience With
 - Linux · Python · Kotlin · Java · C · C++ · C#  
@@ -73,6 +74,13 @@ RESTful backend service for managing expenses
 Augmented Reality Android app for indoor navigation  
 `Kotlin` · `ARCore` · `MVVM` · `Firebase Firestore`  
 → Provides real-time campus navigation with interactive AR features.
+
+#### [SmartBowl](https://github.com/michellecain31/SmartBowl)
+IoT-based smart pet feeder system  
+`Python` · `PyQt5` · `MQTT` · `SQLite`  
+→ Automates and manages pet feeding using a GUI, sensors, and adaptive logic.  
+🎥 [Watch Demo](https://drive.google.com/file/d/1yRRgOqEs4KH1mqU9h0VZWNLaQd-SDvCQ/view?usp=sharing) | 📑 [View Presentation](https://github.com/user-attachments/files/20996829/iot.smartbowlPresentation.pdf)
+
 
 ---
 
