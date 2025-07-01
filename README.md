@@ -20,6 +20,8 @@
 - [Cost Manager API](https://github.com/michellecain31/Cost-Manager-Final-Project) – RESTful API backend service  
 - [AR Smart Navigation Campus](https://github.com/AR-Smart-Navigation-Campus/AR-Smart-Navigation-Campus) – Augmented Reality Android app for smart campus navigation  
 - [SmartBowl](https://github.com/michellecain31/SmartBowl) – IoT-based smart pet feeder system
+- [VizAV](https://github.com/michellecain31/VizAV-Autonomous-Vehicle-Data-Visualization) – Autonomous vehicle data visualization and analysis platform
+
 
 ### 🌱 Experience With
 - Linux · Python · Kotlin · Java · C · C++ · C#  
@@ -80,6 +82,13 @@ IoT-based smart pet feeder system
 `Python` · `PyQt5` · `MQTT` · `SQLite`  
 → Automates and manages pet feeding using a GUI, sensors, and adaptive logic.  
 🎥 [Watch Demo](https://drive.google.com/file/d/1yRRgOqEs4KH1mqU9h0VZWNLaQd-SDvCQ/view?usp=sharing) | 📑 [View Presentation](https://github.com/user-attachments/files/20996829/iot.smartbowlPresentation.pdf)
+
+#### [VizAV](https://github.com/michellecain31/VizAV-Autonomous-Vehicle-Data-Visualization) 
+Autonomous vehicle data visualization and analysis platform  
+`Python` · `Jupyter` · `VizViewer` · `Lyft L5 Dataset`  
+  → Visualizes and analyzes motion data from real-world driving scenes to improve autonomous vehicle decision-making and path planning.  
+  🎥 [Watch Presentation](https://drive.google.com/file/d/1nhkj5atlqu9xgPZlEwXpwk9me5LXh1tN/view?usp=sharing)
+
 
 
 ---
